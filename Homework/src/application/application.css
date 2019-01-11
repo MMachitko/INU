@@ -1,0 +1,23 @@
+.root{
+	-fx-background-color:cyan;
+	-fx-text-fill: red;
+	-fx-pref-width: 130.0px;
+}
+#button{
+	-fx-background-color: blue;
+	-fx-border-style: dashed ;
+	-fx-border-width: 2.0px ;
+	-fx-font:  20.0pt "STIX";
+}
+.button:hover{
+		-fx-background-color: green;
+	}
+.label{
+	-fx-background-color:blue;
+	-fx-text-fill:red;
+}
+#label1{
+	-fx-background-color:deepskyblue;
+	-fx-text-fill: red;
+}
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
